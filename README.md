@@ -2,4 +2,4 @@
 
 Utilizing Jekyll resume theme found [here.](https://github.com/sharu725/online-cv)
 
-Domain name and Github Pages installation made possible with [NameCheap.](nc.me)
+Domain name and Github Pages installation made possible with [NameCheap.](https://nc.me/)
