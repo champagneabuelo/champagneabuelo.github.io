@@ -14,7 +14,7 @@ baseurl: '' #change it according to your repository name
 
 #Profile information
 name: Jason Valenzuela
-tagline: Software Engineer
+tagline: Software Developer
 pic: 9-23.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
